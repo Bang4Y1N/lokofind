@@ -1,4 +1,4 @@
-#LOKOFIND
+## LOKOFIND
 LokoFind (Lokomedia Admin Finder) adalah Admin Panel Finder yang dibuat dengan Python3
 Jadi ini merupakan salah satu tool Admin Finder tercepat :v
 
